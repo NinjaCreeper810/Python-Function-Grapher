@@ -1,4 +1,6 @@
-# Python-Function-Grapher
+I would not recommend using this tool unless you are going to overhall it, it was one of my first projects and is pretty ineficient
+
+## Python-Function-Grapher
 
 Code is in Graph Plotter.py
 
